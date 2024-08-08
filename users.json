@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Эммануил Ласкер",
+        "desc": "Чемпион мира по шахматам",
+        "photo": "images/member.webp",
+        "link": ""
+    },
+    {
+        "name": "Александр Алехин",
+        "desc": "Чемпион мира по шахматам",
+        "photo": "images/member.webp",
+        "link": ""
+    },
+    {
+        "name": "Дмитрий Смирнов",
+        "desc": "Чемпион мира по шахматам",
+        "photo": "images/member.webp",
+        "link": ""
+    },
+    {
+        "name": "Арон Нимцович",
+        "desc": "Чемпион мира по шахматам",
+        "photo": "images/member.webp",
+        "link": ""
+    },
+    {
+        "name": "Рихард Рети",
+        "desc": "Чемпион мира по шахматам",
+        "photo": "images/member.webp",
+        "link": ""
+    },
+    {
+        "name": "Остап Бендер",
+        "desc": "Гроссмейстер",
+        "photo": "images/member.webp",
+        "link": ""
+    }
+]
